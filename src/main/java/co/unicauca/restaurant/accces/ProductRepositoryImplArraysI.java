@@ -25,12 +25,12 @@ public class ProductRepositoryImplArraysI implements IProductRepository {
     }
     
     private void initialize() {
-        products.add(new Product(1, "Pizza", 5000d));
-        products.add(new Product(2, "Lasaña", 5500d));
-        products.add(new Product(3, "Sopa Minestrone", 5000d));
-        products.add(new Product(4, "Ensalada Capresse", 5800d));
-        products.add(new Product(5, "Espaguetis a la carbonara", 6900d));
-        products.add(new Product(6, "Risotto", 6200d));
+        products.add(new Product(1, "Pizza", 3000d));
+        products.add(new Product(2, "Lasaña", 3500d));
+        products.add(new Product(3, "Sopa Minestrone", 7000d));
+        products.add(new Product(4, "Ensalada Capresse", 9000d));
+        products.add(new Product(5, "Espaguetis a la carbonara", 8500d));
+        products.add(new Product(6, "Risotto", 4400d));
         
     }
     
