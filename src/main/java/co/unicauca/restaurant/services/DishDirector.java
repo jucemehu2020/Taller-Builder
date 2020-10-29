@@ -5,9 +5,8 @@ import co.unicauca.restaurant.domain.Dish;
 
 /**
  *
- * @author Julio Hurtado, Libardo Pantoja
- * 
- */ 
+ * @author Cristian Pinto,Julio Mellizo
+ */
 
 public class DishDirector {
   

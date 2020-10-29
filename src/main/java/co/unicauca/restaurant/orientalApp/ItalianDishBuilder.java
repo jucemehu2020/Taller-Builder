@@ -10,6 +10,11 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *
+ * @author Cristian Pinto,Julio Mellizo
+ */
+
 public class ItalianDishBuilder extends DishBuilder {
   IProductRepository myRepository;
   ItalianDish myItalianDish;

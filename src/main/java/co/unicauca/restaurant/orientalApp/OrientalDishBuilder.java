@@ -12,8 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author Julio Hurtado, Libardo Pantoja
- * 
+ * @author Cristian Pinto,Julio Mellizo
  */
 
 public class OrientalDishBuilder extends DishBuilder {

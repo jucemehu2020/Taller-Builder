@@ -9,7 +9,7 @@ import java.util.List;
 * Implementación por defecto. El framewok contenedor de CDI (Contexts and
 * Dependency Injection) carga la implementación por defecto.
 *
-* @author Libardo, Julio
+* @author Cristian Pinto,Julio Mellizo
 */
 
 public class ProductRepositoryImplArraysI implements IProductRepository {

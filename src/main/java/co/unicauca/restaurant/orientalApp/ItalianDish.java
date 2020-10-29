@@ -8,7 +8,7 @@ import java.util.Vector;
 
 /**
  *
- * @author Julio Cesar
+ * @author Cristian Pinto,Julio Mellizo
  */
 public class ItalianDish extends Dish{
     private Product base;

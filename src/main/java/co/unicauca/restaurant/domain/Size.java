@@ -3,7 +3,7 @@ package co.unicauca.restaurant.domain;
 
 /**
  *
- * @author ahurtado
+ * @author Cristian Pinto,Julio Mellizo
  */
 public enum Size {
     FAMILY, DOUBLE , PERSONAL

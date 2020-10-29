@@ -9,7 +9,7 @@ import java.util.Vector;
 
 /**
  *
- * @author ahurtado
+ * @author Cristian Pinto,Julio Mellizo
  */
 public class OrientalDish extends Dish{
     

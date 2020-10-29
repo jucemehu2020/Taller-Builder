@@ -3,7 +3,7 @@ package co.unicauca.restaurant.domain;
 /**
  * Representa un producto
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Cristian Pinto,Julio Mellizo
  */
 public class Product {
 

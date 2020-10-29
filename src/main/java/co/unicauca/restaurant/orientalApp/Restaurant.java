@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ahurtado
+ * @author Cristian Pinto,Julio Mellizo
  */
 public class Restaurant {
 

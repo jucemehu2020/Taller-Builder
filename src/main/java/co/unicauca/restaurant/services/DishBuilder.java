@@ -5,7 +5,7 @@ import co.unicauca.restaurant.domain.Dish;
 
 /**
  *
- * @author ahurtado
+ * @author Cristian Pinto,Julio Mellizo
  */
 public abstract class DishBuilder {
     
