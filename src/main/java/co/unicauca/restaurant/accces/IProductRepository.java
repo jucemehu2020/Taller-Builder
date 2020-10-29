@@ -8,7 +8,7 @@ import java.util.List;
 /**
 * Interface de los servicios del repositorio
 *
-*@author Libardo, Julio
+*@author Cristian Pinto,Julio Mellizo
 */
 
 public interface IProductRepository {
