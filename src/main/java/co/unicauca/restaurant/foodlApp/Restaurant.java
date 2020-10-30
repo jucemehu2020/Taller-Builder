@@ -1,5 +1,5 @@
 
-package co.unicauca.restaurant.orientalApp;
+package co.unicauca.restaurant.foodlApp;
 
 import co.unicauca.restaurant.services.DishDirector;
 import co.unicauca.restaurant.domain.Dish;

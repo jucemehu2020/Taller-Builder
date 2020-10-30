@@ -1,4 +1,4 @@
-package co.unicauca.restaurant.orientalApp;
+package co.unicauca.restaurant.foodlApp;
 import co.unicauca.restaurant.services.DishBuilder;
 import co.unicauca.restaurant.accces.IProductRepository;
 import co.unicauca.restaurant.accces.ProductRepositoryImplArraysI;

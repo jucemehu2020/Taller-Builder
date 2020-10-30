@@ -1,5 +1,4 @@
-
-package co.unicauca.restaurant.orientalApp;
+package co.unicauca.restaurant.foodlApp;
 
 import co.unicauca.restaurant.domain.Dish;
 import co.unicauca.restaurant.domain.Product;
@@ -11,13 +10,12 @@ import java.util.Vector;
  *
  * @author Cristian Pinto,Julio Mellizo
  */
-public class OrientalDish extends Dish{
-    
+public class ItalianDish extends Dish{
     private Product base;
     private List<Product> myOptions;
     private Size size;
 
-    OrientalDish(double p) {
+    ItalianDish(double p) {
         this.price = p;
         myOptions = new Vector<>();
     }
